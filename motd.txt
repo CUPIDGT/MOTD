@@ -1,5 +1,6 @@
-HELLO!!! Hope you all have been having fun!!
+Welcome, or welcome back!
+Sorry about the server downtime, our playfab was spammed! I just took some time to fix it.
+I also fixed up climbing a little, and changed purchasing!
+Rather than pick up and put down, it is an add-to-cart system. Sorry if you liked the old one, it was just impossible to use with climbing and ended up not working.
 
-Horror has been re-added! Jump through the vents in the storage room and find your way there!!
-
-I had done other changes but I had forgotten already lol
+Don't forget to join Discord.gg/manicmacacas
